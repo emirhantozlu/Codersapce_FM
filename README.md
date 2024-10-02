@@ -1,0 +1,2 @@
+# **Coderspace Veri Bilimi Ve Yapay Zeka Yaz okulu - Kaggle yarışması**
+Coderspace tarafından verilen veri bilimi ve yapay zeka  yaz okulu eğitimi sonrası yapılan kaggle yarışmasında kullanılan veri setlerini, notebookumu ve submission dosyasını içermektedir.
